@@ -32,9 +32,9 @@ HEADERS
   *녹색
     *파랑
     
-+빨강
-  +녹색
-    +파랑
++ 빨강
+  + 녹색
+    + 파랑
     
 + 빨강1
 + 빨강2
@@ -46,6 +46,7 @@ HEADERS
     
     
 THIS IS A NORMAL PARAGRAPH:
+
   this is a code block.
  
 end code block.
@@ -55,5 +56,19 @@ end code block.
 ```
 code
 ```
-    
+
+* * *
+
+***
+*****
+- - - 
+----------------------------------
+
+[link keyword][id]
+[id]: https://google.com "go goole" 
+
+![Alt text](/path/to/img.jpg)
+
+[마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
  
