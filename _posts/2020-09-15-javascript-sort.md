@@ -8,7 +8,7 @@ categories: JavaScript
 =================
 
 문법
-```
+```javascript
 배열.sort(function(a, b){
   return 비교값;
 })
@@ -18,7 +18,7 @@ categories: JavaScript
 비교값 = 0 : a와 b의 위치를 변경하지 않음<br>
 
 **EXAMPLE**
-```
+```javascript
 const numArr1 = [2, 0, 3, 4, 1];
 const numArr2 = [2, 0, 3, 4, 1];
 const objArr = [
